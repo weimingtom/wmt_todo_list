@@ -11,6 +11,8 @@ KopiLua mod.
 * TGUI Java port  
 Port TGUI to Java.  
 
+* Character birthday calendar  
+(Not started yet)  
 
 
 
