@@ -14,9 +14,8 @@ Port TGUI to Java.
 * Character birthday calendar  
 (Not started yet)  
 
-
-
-
+* Weixin (WeChat) web page demo  
+Show Weixin (WeChat) UI in web page for demo.   
 
 
 ## Public work  
