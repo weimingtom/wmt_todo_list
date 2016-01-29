@@ -17,6 +17,9 @@ Port TGUI to Java.
 * Weixin (WeChat) web page demo  
 Show Weixin (WeChat) UI in web page for demo.   
 
+* Remote controller for using android to control Windows programs       
+Written in Lua.  
+
 
 ## Public work  
 * weimingtom/charj  
