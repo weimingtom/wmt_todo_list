@@ -4,7 +4,7 @@ Nothing seek, nothing find.
 
 
 
-## Private work / planning work  
+## Private work / Planning work  
 * Kuuko  
 KopiLua mod.   
 
