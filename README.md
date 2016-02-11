@@ -20,8 +20,12 @@ Show Weixin (WeChat) UI in web page for demo.
 * Remote controller for using android to control Windows programs       
 Written in Lua.  
 
-* script bind.  
+* Script bind.  
 Using sdl.  
+
+* Game image preloader  
+Using Java.  
+
 
 ## Public work  
 * weimingtom/charj  
