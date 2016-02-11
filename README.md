@@ -26,6 +26,8 @@ Using sdl.
 * Game image preloader  
 Using Java.  
 
+* AngularJS study  
+Android app develop  
 
 ## Public work  
 * weimingtom/charj  
