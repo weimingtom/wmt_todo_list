@@ -38,6 +38,9 @@ sss-go canvas js style api
 * lua auto yielding  
 lua code parser and filter for metamorphose  
 
+* ons sdlmod
+ons sdlmod replace  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
