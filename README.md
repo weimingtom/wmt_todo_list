@@ -35,6 +35,9 @@ Yuichan golang port
 * sss-go canvas js style api  
 sss-go canvas js style api  
 
+* lua auto yielding  
+lua code parser and filter for metamorphose  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
