@@ -29,6 +29,12 @@ Using Java.
 * AngularJS study  
 Android app develop  
 
+* Yuichan golang port  
+Yuichan golang port  
+
+* sss-go canvas js style api  
+sss-go canvas js style api  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
