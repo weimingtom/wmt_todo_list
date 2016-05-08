@@ -44,6 +44,12 @@ ons sdlmod replace
 * NYXPNGTools  
 png converter  
 
+* nianhao  
+era dicionary and search tool   
+
+* nuklear  
+nuklear study     
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
