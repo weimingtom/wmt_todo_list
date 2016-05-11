@@ -50,6 +50,9 @@ era dicionary and search tool
 * nuklear  
 nuklear study     
 
+* scons  
+scons study  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
