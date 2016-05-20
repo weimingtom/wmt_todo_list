@@ -56,6 +56,9 @@ scons study
 * WebLaF  
 WebLaF - Java Look and Feel  
 
+* Gerrit  
+Gerrit  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
