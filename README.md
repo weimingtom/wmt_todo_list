@@ -65,6 +65,11 @@ EKVN
 * PuerkitoBio/agora  
 https://github.com/PuerkitoBio/agora  
 
+* db4o  
+http://www.db4o.com  
+
+* Some links about Script Engine  
+https://github.com/weimingtom/myosotis2  
 
 ## Public work  
 * weimingtom/charj  
