@@ -74,6 +74,8 @@ https://github.com/weimingtom/myosotis2
 * coapp-packages/boehm-gc  
 Hans_Boehm/gc  
 https://github.com/coapp-packages/boehm-gc  
+qrux/xwing  
+https://github.com/qrux/xwing  
 
 
 ## Public work  
