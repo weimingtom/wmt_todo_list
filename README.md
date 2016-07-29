@@ -77,6 +77,8 @@ https://github.com/coapp-packages/boehm-gc
 qrux/xwing  
 https://github.com/qrux/xwing  
 
+* dictims  
+https://github.com/weimingtom/dictims  
 
 ## Public work  
 * weimingtom/charj  
