@@ -80,6 +80,11 @@ https://github.com/qrux/xwing
 * dictims  
 https://github.com/weimingtom/dictims  
 
+* How to use SCons  
+markglenn/MiniUI  
+https://github.com/markglenn/MiniUI  
+
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
