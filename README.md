@@ -87,6 +87,8 @@ https://github.com/markglenn/MiniUI
 * ipython  
 ipython   
 
+* simplenote  
+https://simplenote.com/  
 
 ## Public work  
 * weimingtom/charj  
