@@ -90,6 +90,13 @@ ipython
 * simplenote  
 https://simplenote.com/  
 
+* apk icon viewer  
+apk icon viewer  
+
+* weimingtom/WinClipboardExporter    
+weibo exporter  
+https://github.com/weimingtom/WinClipboardExporter  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
