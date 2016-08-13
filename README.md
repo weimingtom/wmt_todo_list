@@ -84,6 +84,9 @@ https://github.com/weimingtom/dictims
 markglenn/MiniUI  
 https://github.com/markglenn/MiniUI  
 
+* ipython  
+ipython   
+
 
 ## Public work  
 * weimingtom/charj  
