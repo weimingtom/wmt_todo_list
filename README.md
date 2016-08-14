@@ -100,6 +100,9 @@ https://github.com/weimingtom/WinClipboardExporter
 * java command line image converter/filter     
 https://github.com/weimingtom/charj  
 
+* font generater dialog  
+see toheart2 chinesize tool which use Delphi      
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
