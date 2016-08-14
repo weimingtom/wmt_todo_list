@@ -97,6 +97,9 @@ apk icon viewer
 weibo exporter  
 https://github.com/weimingtom/WinClipboardExporter  
 
+* java command line image converter/filter     
+https://github.com/weimingtom/charj  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
