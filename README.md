@@ -101,7 +101,8 @@ https://github.com/weimingtom/WinClipboardExporter
 https://github.com/weimingtom/charj  
 
 * font generater dialog  
-see toheart2 chinesize tool which use Delphi      
+see toheart2 chinesize tool which use Delphi     
+https://github.com/cnpack/cnvcl/blob/master/Source/Graphics/CnAAFontDialog.pas  
 
 ## Public work  
 * weimingtom/charj  
