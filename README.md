@@ -104,6 +104,10 @@ https://github.com/weimingtom/charj
 see toheart2 chinesize tool which use Delphi     
 https://github.com/cnpack/cnvcl/blob/master/Source/Graphics/CnAAFontDialog.pas  
 
+* mmd/pmd  
+takahirox/mmd-viewer-js  
+https://github.com/takahirox/mmd-viewer-js  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
