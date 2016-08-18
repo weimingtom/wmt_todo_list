@@ -108,6 +108,9 @@ https://github.com/cnpack/cnvcl/blob/master/Source/Graphics/CnAAFontDialog.pas
 takahirox/mmd-viewer-js  
 https://github.com/takahirox/mmd-viewer-js  
 
+* zh99998/OpenRGSS-RPGMaker  
+https://github.com/zh99998/OpenRGSS-RPGMaker  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
