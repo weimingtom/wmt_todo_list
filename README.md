@@ -117,6 +117,8 @@ take-cheeze/rpg2kemu
 https://github.com/take-cheeze/rpg2kemu  
 take-cheeze/librpg2k    
 https://github.com/take-cheeze/librpg2k  
+take-cheeze/rpgtukuru-iphone  
+https://github.com/take-cheeze/rpgtukuru-iphone    
 cjv123/RPG  
 https://github.com/cjv123/RPG  
 rmxp4droid  
