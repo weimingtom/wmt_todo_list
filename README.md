@@ -110,6 +110,14 @@ https://github.com/takahirox/mmd-viewer-js
 
 * zh99998/OpenRGSS-RPGMaker  
 https://github.com/zh99998/OpenRGSS-RPGMaker  
+rpg2kemu / rpg2k  
+EasyRPG/Player  
+https://github.com/EasyRPG/Player  
+take-cheeze/rpg2kemu  
+https://github.com/take-cheeze/rpg2kemu  
+take-cheeze/librpg2k    
+https://github.com/take-cheeze/librpg2k  
+
 
 ## Public work  
 * weimingtom/charj  
