@@ -123,6 +123,8 @@ rmxp4droid
 http://blog.csdn.net/cxy1238/article/details/12253745  
 Ancurio/mkxp  
 https://github.com/Ancurio/mkxp  
+weimingtom/rpg2kemuMod  
+https://github.com/weimingtom/rpg2kemuMod  
 
 ## Public work  
 * weimingtom/charj  
