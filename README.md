@@ -121,6 +121,8 @@ cjv123/RPG
 https://github.com/cjv123/RPG  
 rmxp4droid  
 http://blog.csdn.net/cxy1238/article/details/12253745  
+Ancurio/mkxp  
+https://github.com/Ancurio/mkxp  
 
 ## Public work  
 * weimingtom/charj  
