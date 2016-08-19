@@ -117,7 +117,10 @@ take-cheeze/rpg2kemu
 https://github.com/take-cheeze/rpg2kemu  
 take-cheeze/librpg2k    
 https://github.com/take-cheeze/librpg2k  
-
+cjv123/RPG  
+https://github.com/cjv123/RPG  
+rmxp4droid  
+http://blog.csdn.net/cxy1238/article/details/12253745  
 
 ## Public work  
 * weimingtom/charj  
