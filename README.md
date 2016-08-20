@@ -127,6 +127,9 @@ Ancurio/mkxp
 https://github.com/Ancurio/mkxp  
 weimingtom/rpg2kemuMod  
 https://github.com/weimingtom/rpg2kemuMod  
+rm20xx-android  
+https://code.google.com/archive/p/rm20xx-android/  
+weimingtom/rm20xx-android  
 
 ## Public work  
 * weimingtom/charj  
