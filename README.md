@@ -131,6 +131,15 @@ rm20xx-android
 https://code.google.com/archive/p/rm20xx-android/  
 https://github.com/weimingtom/rm20xx-android    
 
+* 3d model viewer
+FuKeKe/GameEngineer  
+https://github.com/FuKeKe/GameEngineer  
+weimingtom/dae_viewer  
+https://github.com/weimingtom/dae_viewer  
+
+* gocha  
+https://github.com/weimingtom/game_gocha  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
