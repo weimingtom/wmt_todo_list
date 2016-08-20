@@ -141,7 +141,13 @@ https://github.com/weimingtom/dae_viewer
 https://github.com/weimingtom/game_gocha  
 
 * php bbs/crm  
-futallaby
+pixmicat/pixmicat  
+https://github.com/pixmicat/pixmicat  
+hametsu/futaba  
+https://github.com/hametsu/futaba  
+futallaby  
+Mosesofmason/futallaby-zh  
+https://github.com/Mosesofmason/futallaby-zh  
 
 ## Public work  
 * weimingtom/charj  
