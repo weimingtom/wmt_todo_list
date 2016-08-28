@@ -149,6 +149,10 @@ futallaby
 Mosesofmason/futallaby-zh  
 https://github.com/Mosesofmason/futallaby-zh  
 
+* papervision3d / pv3d  
+https://github.com/weimingtom/papervision3d  
+https://github.com/weimingtom/papervision3d_java  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
