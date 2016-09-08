@@ -154,6 +154,10 @@ https://github.com/weimingtom/papervision3d
 https://github.com/weimingtom/papervision3d_java  
 https://github.com/weimingtom/away3d  
 
+* 3d fps   
+game-ide  
+https://github.com/weimingtom/game-ide  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
