@@ -158,6 +158,9 @@ https://github.com/weimingtom/away3d
 game-ide  
 https://github.com/weimingtom/game-ide  
 
+* fenggui  
+https://github.com/weimingtom/fenggui_playground  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
