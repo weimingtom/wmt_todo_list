@@ -164,7 +164,8 @@ https://github.com/weimingtom/fenggui_playground
 * gtge  
 https://github.com/weimingtom/gtge_playground  
 
-
+* script engine study     
+https://github.com/weimingtom/jython_playground  
 
 
 
