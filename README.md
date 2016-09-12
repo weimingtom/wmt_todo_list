@@ -171,6 +171,10 @@ https://github.com/weimingtom/jython_playground
 https://github.com/mshockwave/PdfiumAndroid/tree/master/src/main/jni/include/utils  
 https://github.com/weimingtom/PdfiumAndroid  
 
+* 计算机图形学 / 宏汇编  
+https://github.com/weimingtom/old_books_code  
+
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
