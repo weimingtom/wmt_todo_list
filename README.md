@@ -180,6 +180,9 @@ https://itunes.apple.com/cn/app/gui-yan-li-rengalgame/id957704050?mt=8
 * 网页游戏开发秘笈  
 pdf  
 
+* weimingtom/nokscript_java  
+https://github.com/weimingtom/nokscript_java  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
