@@ -167,7 +167,9 @@ https://github.com/weimingtom/gtge_playground
 * script engine study     
 https://github.com/weimingtom/jython_playground  
 
-
+* android utils header files  
+https://github.com/mshockwave/PdfiumAndroid/tree/master/src/main/jni/include/utils  
+https://github.com/weimingtom/PdfiumAndroid  
 
 ## Public work  
 * weimingtom/charj  
