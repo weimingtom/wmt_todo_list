@@ -177,6 +177,9 @@ https://github.com/weimingtom/old_books_code
 * 华康少女字体 / 鬼眼丽人    
 https://itunes.apple.com/cn/app/gui-yan-li-rengalgame/id957704050?mt=8  
 
+* 网页游戏开发秘笈  
+pdf  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
