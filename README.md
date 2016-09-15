@@ -183,6 +183,13 @@ pdf
 * weimingtom/nokscript_java  
 https://github.com/weimingtom/nokscript_java  
 
+* alienblaster (sdl android)   
+https://github.com/pelya/commandergenius/releases?after=android-market-release-02  
+https://github.com/pelya/commandergenius/releases/tag/last-working-sdl-1.3  
+more games port   
+https://github.com/pelya/commandergenius/tree/sdl_android/project/jni/application  
+http://libsdl-android.sourceforge.net/  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
