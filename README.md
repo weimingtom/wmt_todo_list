@@ -190,8 +190,8 @@ more games port
 https://github.com/pelya/commandergenius/tree/sdl_android/project/jni/application  
 http://libsdl-android.sourceforge.net/  
 
-* youtube/yt-watchme.git  
-https://github.com/youtube/yt-watchme.git  
+* youtube/yt-watchme  
+https://github.com/youtube/yt-watchme  
 
 ## Public work  
 * weimingtom/charj  
