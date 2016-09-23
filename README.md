@@ -193,6 +193,10 @@ http://libsdl-android.sourceforge.net/
 * youtube/yt-watchme  
 https://github.com/youtube/yt-watchme  
 
+* airyland/vux  
+ui design  
+https://github.com/airyland/vux  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
