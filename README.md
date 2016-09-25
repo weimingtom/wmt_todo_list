@@ -197,6 +197,9 @@ https://github.com/youtube/yt-watchme
 ui design  
 https://github.com/airyland/vux  
 
+* SunnyRx/ADV-PROGRAM  
+https://git.oschina.net/SunnyRx/ADV-PROGRAM  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
