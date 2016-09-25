@@ -200,6 +200,12 @@ https://github.com/airyland/vux
 * SunnyRx/ADV-PROGRAM  
 https://git.oschina.net/SunnyRx/ADV-PROGRAM  
 
+* MariadeAnton/bcl  
+Basic Compression Library  
+by Marcus Geelnard  
+Release 1.2.0  
+https://github.com/MariadeAnton/bcl  
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
