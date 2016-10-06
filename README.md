@@ -107,6 +107,8 @@ https://github.com/cnpack/cnvcl/blob/master/Source/Graphics/CnAAFontDialog.pas
 * mmd/pmd  
 takahirox/mmd-viewer-js  
 https://github.com/takahirox/mmd-viewer-js  
+nya-engine  
+https://github.com/weimingtom/nya-engine  
 
 * zh99998/OpenRGSS-RPGMaker  
 https://github.com/zh99998/OpenRGSS-RPGMaker  
