@@ -206,6 +206,16 @@ by Marcus Geelnard
 Release 1.2.0  
 https://github.com/MariadeAnton/bcl  
 
+* nosql  
+https://github.com/memcached/memcached  
+https://github.com/rethinkdb/rethinkdb  
+
+
+
+
+
+
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
