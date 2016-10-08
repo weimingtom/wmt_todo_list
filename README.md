@@ -213,6 +213,8 @@ https://github.com/memcached/memcached
 https://github.com/rethinkdb/rethinkdb  
 https://github.com/kr/beanstalkd  
 
+* Samsung/jerryscript  
+https://github.com/Samsung/jerryscript  
 
 
 
