@@ -208,10 +208,10 @@ by Marcus Geelnard
 Release 1.2.0  
 https://github.com/MariadeAnton/bcl  
 
-* nosql  
+* nosql, etc...    
 https://github.com/memcached/memcached  
 https://github.com/rethinkdb/rethinkdb  
-
+https://github.com/kr/beanstalkd  
 
 
 
