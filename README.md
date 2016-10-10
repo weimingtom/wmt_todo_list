@@ -219,6 +219,10 @@ https://github.com/Samsung/jerryscript
 * Oracle BEA, weblogic, JBoss esb  
 Oracle BEA, weblogic, JBoss esb  
 
+* 开源游戏  
+https://github.com/renhuailin/MyDocs/blob/master/open-source-games.md  
+
+
 
 ## Public work  
 * weimingtom/charj  
@@ -292,7 +296,6 @@ https://github.com/weimingtom/wmtdict
 
 * weimingtom/yuichan  
 https://github.com/weimingtom/yuichan  
-
 
 
 
