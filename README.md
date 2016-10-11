@@ -233,6 +233,23 @@ https://github.com/weimingtom/lily/tree/wmt
 https://github.com/HuoLanguage/huo  
 https://github.com/weimingtom/huo/tree/wmt  
 
+* ebookdroid supporting mupdf 1.9a
+https://github.com/weimingtom/ebookdroid  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Public work  
 * weimingtom/charj  
 https://github.com/weimingtom/charj  
