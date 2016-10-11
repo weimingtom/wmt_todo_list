@@ -220,6 +220,10 @@ svaarala/duktape
 https://github.com/svaarala/duktape  
 在openwrt上使用jerryscript做js嵌入  
 https://github.com/qdk0901/jscc  
+jxcore/jxcore  
+https://github.com/jxcore/jxcore  
+Smart.js  
+https://github.com/cesanta/mongoose-iot  
 
 * Oracle BEA, weblogic, JBoss esb  
 Oracle BEA, weblogic, JBoss esb  
