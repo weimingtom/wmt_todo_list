@@ -222,6 +222,8 @@ Oracle BEA, weblogic, JBoss esb
 * 开源游戏  
 https://github.com/renhuailin/MyDocs/blob/master/open-source-games.md  
 
+* FascinatedBox/lily  
+https://github.com/FascinatedBox/lily  
 
 
 ## Public work  
