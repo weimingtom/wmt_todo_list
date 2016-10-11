@@ -216,6 +216,8 @@ https://github.com/kr/beanstalkd
 * Samsung/jerryscript  
 https://github.com/Samsung/jerryscript  
 https://github.com/weimingtom/jerryscript/tree/wmt  
+svaarala/duktape  
+https://github.com/svaarala/duktape  
 
 * Oracle BEA, weblogic, JBoss esb  
 Oracle BEA, weblogic, JBoss esb  
