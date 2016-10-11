@@ -215,6 +215,7 @@ https://github.com/kr/beanstalkd
 
 * Samsung/jerryscript  
 https://github.com/Samsung/jerryscript  
+https://github.com/weimingtom/jerryscript/tree/wmt  
 
 * Oracle BEA, weblogic, JBoss esb  
 Oracle BEA, weblogic, JBoss esb  
@@ -224,7 +225,11 @@ https://github.com/renhuailin/MyDocs/blob/master/open-source-games.md
 
 * FascinatedBox/lily  
 https://github.com/FascinatedBox/lily  
+https://github.com/weimingtom/lily/tree/wmt  
 
+* HuoLanguage/huo  
+https://github.com/HuoLanguage/huo  
+https://github.com/weimingtom/huo/tree/wmt  
 
 ## Public work  
 * weimingtom/charj  
