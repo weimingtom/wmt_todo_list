@@ -248,10 +248,15 @@ https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to
 * yuin/gopher-lua  
 https://github.com/yuin/gopher-lua  
 
+* v8 / nodejs  
+zpao/spidernode  
+https://github.com/zpao/spidernode  
+https://github.com/zpao/spidernode/wiki/Building-node.js-on-mingw  
+V8のMinGWでのコンパイル  
+http://safx-dev.blogspot.nl/2010/08/v8mingw.html  
 
-
-
-
+* skia  
+https://github.com/bri3d/android_external_skia  
 
 
 
