@@ -218,6 +218,8 @@ https://github.com/Samsung/jerryscript
 https://github.com/weimingtom/jerryscript/tree/wmt  
 svaarala/duktape  
 https://github.com/svaarala/duktape  
+在openwrt上使用jerryscript做js嵌入  
+https://github.com/qdk0901/jscc  
 
 * Oracle BEA, weblogic, JBoss esb  
 Oracle BEA, weblogic, JBoss esb  
@@ -239,6 +241,8 @@ https://github.com/weimingtom/ebookdroid
 * List of languages that compile to JS  
 https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS  
 
+* yuin/gopher-lua  
+https://github.com/yuin/gopher-lua  
 
 
 
