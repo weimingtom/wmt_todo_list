@@ -236,6 +236,8 @@ https://github.com/weimingtom/huo/tree/wmt
 * ebookdroid supporting mupdf 1.9a  
 https://github.com/weimingtom/ebookdroid    
 
+* List of languages that compile to JS  
+https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS  
 
 
 
