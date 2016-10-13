@@ -254,6 +254,10 @@ https://github.com/zpao/spidernode
 https://github.com/zpao/spidernode/wiki/Building-node.js-on-mingw  
 V8のMinGWでのコンパイル  
 http://safx-dev.blogspot.nl/2010/08/v8mingw.html  
+https://nodejs.org/dist/node-v0.1.100.tar.gz  
+cd deps/v8  
+scons  
+scons sample=shell  
 
 * skia  
 https://github.com/bri3d/android_external_skia  
