@@ -258,6 +258,7 @@ https://nodejs.org/dist/node-v0.1.100.tar.gz
 cd deps/v8  
 scons  
 scons sample=shell  
+search 'v8 scons'  
 
 * skia  
 https://github.com/bri3d/android_external_skia  
