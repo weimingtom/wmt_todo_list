@@ -288,3 +288,8 @@ http://www.layabox.com/
 Arctic.js  
 https://github.com/Arcticjs/Arctic.js  
 http://dev.classmethod.jp/smartphone/as3-like-coding-arctic-js/  
+
+## Other  
+public_work.md  
+dead_work.md  
+
