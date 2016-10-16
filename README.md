@@ -289,7 +289,7 @@ Arctic.js
 https://github.com/Arcticjs/Arctic.js  
 http://dev.classmethod.jp/smartphone/as3-like-coding-arctic-js/  
 
-ssl  
+* ssl  
 wolfSSL  
 https://www.wolfssl.com/wolfSSL/Home.html  
 https://github.com/wolfSSL/wolfssl  
@@ -298,6 +298,12 @@ http://www.polarssl.org/
 https://github.com/Vbytes/rtmp_streamer_for_android  
 https://github.com/jiangjianping/polarssl  
 https://github.com/ARMmbed/mbedtls  
+cyassl  
+https://github.com/cyassl/cyassl  
+
+* 数据加密  
+https://github.com/Perfare/mukaRCrypto  
+https://github.com/Perfare/warshipgirls-png  
 
 ## Other  
 [public_work.md](public_work.md)  
