@@ -289,6 +289,16 @@ Arctic.js
 https://github.com/Arcticjs/Arctic.js  
 http://dev.classmethod.jp/smartphone/as3-like-coding-arctic-js/  
 
+ssl  
+wolfSSL  
+https://www.wolfssl.com/wolfSSL/Home.html  
+https://github.com/wolfSSL/wolfssl  
+polarssl  
+http://www.polarssl.org/  
+https://github.com/Vbytes/rtmp_streamer_for_android  
+https://github.com/jiangjianping/polarssl  
+https://github.com/ARMmbed/mbedtls  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
