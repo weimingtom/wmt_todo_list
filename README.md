@@ -256,6 +256,8 @@ https://nodejs.org/dist/node-v0.1.100.tar.gz
 cd deps/v8  
 scons  
 scons sample=shell  
+scons sample=shell arch=x86  
+scons -h  
 github search 'v8 scons'  
 
 * skia  
