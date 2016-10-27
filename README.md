@@ -267,7 +267,7 @@ https://github.com/bri3d/android_external_skia
 https://github.com/andarms/mang  
 
 
-* 类flash / 游戏开发 html5/js库/转换器  
+* 类flash / 类java / 游戏开发 html5/js库/转换器  
 链接集/教程  
 http://webinsightlab.com/technology/15-best-html5-game-engines/  
 http://www.html5.jp/  
@@ -290,6 +290,8 @@ http://www.layabox.com/
 Arctic.js  
 https://github.com/Arcticjs/Arctic.js  
 http://dev.classmethod.jp/smartphone/as3-like-coding-arctic-js/  
+dcodeIO/bytebuffer.js  
+https://github.com/dcodeIO/bytebuffer.js  
 
 * ssl  
 wolfSSL  
