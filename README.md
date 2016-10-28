@@ -318,6 +318,10 @@ https://github.com/cdplusLIU/ScreenCapture
 
 * 中外书目   
 
+* java/c++移植  
+https://github.com/weimingtom/wmt_port_note  
+https://github.com/aevum/libgdx-cpp  
+
 
 ## Other  
 [public_work.md](public_work.md)  
