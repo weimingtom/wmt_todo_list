@@ -325,6 +325,14 @@ https://github.com/aevum/libgdx-cpp
 * 安卓截屏 / 白板 / 屏幕共享  
 https://github.com/weimingtom/wmt_android_screenshot  
 
+* search gui  
+framebuffer/cairo/gdiplus/gdi+/xwindow/wayland  
+
+* FreeRDP/libfreerdp    
+https://github.com/FreeRDP/FreeRDP  
+https://github.com/itskewpie/FreeRDP-android  
+
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
