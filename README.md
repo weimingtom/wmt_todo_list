@@ -338,8 +338,10 @@ https://github.com/tesseract-ocr/tessdata
 
 * 图标库  
 https://github.com/FortAwesome/Font-Awesome/  
+http://fontawesome.io/icons/  
 https://github.com/ijry/lyicon  
-
+http://getbootstrap.com  
+http://getbootstrap.com/components/  
 
 ## Other  
 [public_work.md](public_work.md)  
