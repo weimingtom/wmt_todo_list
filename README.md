@@ -1,4 +1,4 @@
-﻿# wmt_todo_list
+# wmt_todo_list
 Nothing seek, nothing find.
 
 
@@ -332,6 +332,9 @@ framebuffer/cairo/gdiplus/gdi+/xwindow/wayland
 https://github.com/FreeRDP/FreeRDP  
 https://github.com/itskewpie/FreeRDP-android  
 
+* tesseract (OCR)  
+https://github.com/tesseract-ocr/tesseract  
+https://github.com/tesseract-ocr/tessdata  
 
 ## Other  
 [public_work.md](public_work.md)  
