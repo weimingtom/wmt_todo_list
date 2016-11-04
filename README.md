@@ -338,9 +338,15 @@ https://github.com/tesseract-ocr/tesseract
 https://github.com/tesseract-ocr/tessdata  
 
 * 图标库  
+fa  
 https://github.com/FortAwesome/Font-Awesome/  
 http://fontawesome.io/icons/  
+lyicon  
 https://github.com/ijry/lyicon  
+http://www.cnbeta.com/articles/552811.htm  
+http://git.oschina.net/jry/lyicon  
+http://git.lingyun.net/repo/43.html  
+bootstrap  
 http://getbootstrap.com  
 http://getbootstrap.com/components/  
 
