@@ -350,6 +350,9 @@ bootstrap
 http://getbootstrap.com  
 http://getbootstrap.com/components/  
 
+* bitmap c++  
+http://bitmap.codeplex.com  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
