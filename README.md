@@ -101,6 +101,7 @@ https://github.com/weimingtom/charj
 * font generater dialog  
 see toheart2 chinesize tool which use Delphi     
 https://github.com/cnpack/cnvcl/blob/master/Source/Graphics/CnAAFontDialog.pas  
+澄空汉化补丁_ver103/th2x_chspatch_ver103  
 
 * mmd/pmd  
 takahirox/mmd-viewer-js  
