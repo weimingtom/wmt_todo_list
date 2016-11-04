@@ -336,6 +336,11 @@ https://github.com/itskewpie/FreeRDP-android
 https://github.com/tesseract-ocr/tesseract  
 https://github.com/tesseract-ocr/tessdata  
 
+* 图标库  
+https://github.com/FortAwesome/Font-Awesome/  
+https://github.com/ijry/lyicon  
+
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
