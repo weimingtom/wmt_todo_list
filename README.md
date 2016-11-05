@@ -353,6 +353,10 @@ http://getbootstrap.com/components/
 * bitmap c++  
 http://bitmap.codeplex.com  
 
+* OpenGL ES Emulator  
+PowerVR SDK  
+https://community.imgtec.com/developers/powervr/graphics-sdk/  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
