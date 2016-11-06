@@ -200,6 +200,7 @@ https://github.com/airyland/vux
 
 * SunnyRx/ADV-PROGRAM  
 https://git.oschina.net/SunnyRx/ADV-PROGRAM  
+https://github.com/weimingtom/adv_cocos2dx  
 
 * MariadeAnton/bcl  
 Basic Compression Library  
