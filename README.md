@@ -358,6 +358,9 @@ http://bitmap.codeplex.com
 PowerVR SDK  
 https://community.imgtec.com/developers/powervr/graphics-sdk/  
 
+* weimingtom/danbo  
+https://github.com/weimingtom/danbo  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
