@@ -365,6 +365,10 @@ https://github.com/weimingtom/danbo
 https://github.com/ejoy/ejoy2d  
 https://github.com/weimingtom/ejoy2d/commits/wmt  
 
+* CrossApp  
+https://github.com/9miao/CrossApp  
+https://github.com/weimingtom/CrossApp_mingw  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
