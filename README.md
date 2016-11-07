@@ -361,6 +361,10 @@ https://community.imgtec.com/developers/powervr/graphics-sdk/
 * weimingtom/danbo  
 https://github.com/weimingtom/danbo  
 
+* ejoy2d  
+https://github.com/ejoy/ejoy2d  
+https://github.com/weimingtom/ejoy2d/commits/wmt  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
