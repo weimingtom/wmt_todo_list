@@ -363,7 +363,8 @@ https://github.com/weimingtom/danbo
 
 * ejoy2d  
 https://github.com/ejoy/ejoy2d  
-https://github.com/weimingtom/ejoy2d/commits/wmt  
+https://github.com/weimingtom/ejoy2d/tree/wmt  
+https://github.com/weimingtom/ejoy2d/tree/wmt2  
 
 * CrossApp  
 https://github.com/9miao/CrossApp  
