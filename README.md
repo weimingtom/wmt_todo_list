@@ -1,4 +1,4 @@
-# wmt_todo_list
+﻿# wmt_todo_list
 Nothing seek, nothing find.
 
 
@@ -371,6 +371,9 @@ https://github.com/weimingtom/ejoy2d/tree/wmt2
 * CrossApp  
 https://github.com/9miao/CrossApp  
 https://github.com/weimingtom/CrossApp_mingw  
+
+* duilib  
+(search) duilib, dulib  
 
 ## Other  
 [public_work.md](public_work.md)  
