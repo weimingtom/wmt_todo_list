@@ -375,6 +375,10 @@ https://github.com/weimingtom/CrossApp_mingw
 * duilib  
 (search) duilib, dulib  
 
+* GigaGet  
+https://github.com/PaperAirplane-Dev-Team/GigaGet  
+https://github.com/weimingtom/GigaGet/tree/wmt  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
