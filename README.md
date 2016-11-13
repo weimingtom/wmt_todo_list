@@ -379,6 +379,10 @@ https://github.com/weimingtom/CrossApp_mingw
 https://github.com/PaperAirplane-Dev-Team/GigaGet  
 https://github.com/weimingtom/GigaGet/tree/wmt  
 
+* leixiaohua1020/simplest_ffmpeg_mobile  
+https://github.com/leixiaohua1020/simplest_ffmpeg_mobile  
+http://geek.csdn.net/news/detail/93243  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
