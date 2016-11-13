@@ -5,6 +5,7 @@ Nothing seek, nothing find.
 ## Private work / Planning work  
 * Kuuko  
 KopiLua mod.   
+**停滞，请检查网盘的脚本引擎资料（日本的几本自制脚本教材）**  
 
 * TGUI Java port  
 Port TGUI to Java.  
@@ -174,6 +175,7 @@ https://github.com/weimingtom/PdfiumAndroid
 
 * 计算机图形学 / 宏汇编  
 https://github.com/weimingtom/old_books_code  
+**停滞**
 
 * 华康少女字体 / 鬼眼丽人    
 https://itunes.apple.com/cn/app/gui-yan-li-rengalgame/id957704050?mt=8  
