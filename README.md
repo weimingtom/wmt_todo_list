@@ -389,6 +389,9 @@ http://geek.csdn.net/news/detail/93243
 * 安卓上可用的嵌入式键值数据库（最好有足够快的全文查询速度）  
 **TODO**  
 
+* nw.js  
+https://github.com/weimingtom/mang/tree/wmt  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
