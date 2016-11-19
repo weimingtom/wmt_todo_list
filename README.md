@@ -392,6 +392,9 @@ http://geek.csdn.net/news/detail/93243
 * nw.js  
 https://github.com/weimingtom/mang/tree/wmt  
 
+* quake-android  
+doom-android  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
