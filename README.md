@@ -296,6 +296,8 @@ https://github.com/Arcticjs/Arctic.js
 http://dev.classmethod.jp/smartphone/as3-like-coding-arctic-js/  
 dcodeIO/bytebuffer.js  
 https://github.com/dcodeIO/bytebuffer.js  
+pixi.js  
+https://github.com/pixijs/pixi.js  
 
 * ssl  
 wolfSSL  
