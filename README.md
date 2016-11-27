@@ -414,6 +414,9 @@ http://jatovm.org/compat.html
 * adv_cocos2dx  
 <======================移植未完成  
 
+* ffmpeg  
+<======================未做代码简化    
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
