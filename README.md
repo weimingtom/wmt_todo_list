@@ -408,6 +408,12 @@ http://jatovm.org/
 http://jatovm.org/compat.html  
 里面提及的benchmark代码，有参考价值  
 
+* pdf发音标注生成  
+手机版  
+
+* adv_cocos2dx  
+<======================移植未完成  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
