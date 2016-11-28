@@ -301,6 +301,9 @@ https://github.com/pixijs/pixi.js
 Hilo  
 https://github.com/hiloteam/Hilo  
 https://hiloteam.github.io/index.html  
+lufylegend.js  
+https://github.com/lufylegend/lufylegend.js  
+http://xfenglin.com/a/12007207150.html  
 
 * ssl  
 wolfSSL  
