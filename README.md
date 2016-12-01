@@ -424,7 +424,11 @@ http://jatovm.org/compat.html
 https://launchpad.net/gcc-arm-embedded  
 https://github.com/ashtuchkin/vive-diy-position-sensor  
 
-## Other  
+* 面试问题  
+MaximAbramchuck/awesome-interview-questions  
+https://github.com/MaximAbramchuck/awesome-interview-questions  
+
+## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
 
