@@ -431,9 +431,16 @@ https://github.com/ashtuchkin/vive-diy-position-sensor
 MaximAbramchuck/awesome-interview-questions  
 https://github.com/MaximAbramchuck/awesome-interview-questions  
 
-## Other  
+* 日语发音/输入法    
+https://github.com/weimingtom/rime-jap-poly  
+https://github.com/biopolyhedron/rime-jap-poly  
+http://rime.im/  
+https://github.com/rime/librime  
+
+* 未正式开源的ebookdroid剪裁版（也未完成）    
+（暂时还托管在oschina的私有仓库里）  
+<======================未完成  
+
+## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
-
-
-
