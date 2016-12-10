@@ -450,6 +450,12 @@ https://github.com/phuang/ibus-pinyin
 （暂时还托管在oschina的私有仓库里）  
 <======================未完成  
 
+* 代码生成器  
+https://github.com/coolcooldee/sloth  
+已经fork  
+https://github.com/ctripcorp/dal  
+https://github.com/weimingtom/dal/tree/wmt  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
