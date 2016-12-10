@@ -434,8 +434,16 @@ https://github.com/MaximAbramchuck/awesome-interview-questions
 * 日语发音/输入法    
 https://github.com/weimingtom/rime-jap-poly  
 https://github.com/biopolyhedron/rime-jap-poly  
+
+* rime  
 http://rime.im/  
 https://github.com/rime/librime  
+https://github.com/BYVoid/OpenCC/blob/master/data/scheme/st_multi.txt  
+https://www.byvoid.com/blog/recommend-rime/  
+http://code.google.com/p/rimeime/wiki/Downloads  
+https://github.com/lotem/rimeime  
+https://github.com/BYVoid/OpenCC  
+https://github.com/phuang/ibus-pinyin  
 
 * 未正式开源的ebookdroid剪裁版（也未完成）    
 （暂时还托管在oschina的私有仓库里）  
