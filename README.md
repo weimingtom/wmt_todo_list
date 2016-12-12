@@ -456,6 +456,12 @@ https://github.com/coolcooldee/sloth
 https://github.com/ctripcorp/dal  
 https://github.com/weimingtom/dal/tree/wmt  
 
+* 网页控制台  
+https://github.com/plasma-umass/browsix   
+
+* windows界面参考：  
+JCreatorV5  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
