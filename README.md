@@ -462,6 +462,10 @@ https://github.com/plasma-umass/browsix
 * windows界面参考：  
 JCreatorV5  
 
-## Other  
+* jaywcjlove/linux-command  
+https://github.com/jaywcjlove/linux-command  
+类似的文档化工具  
+
+## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
