@@ -463,8 +463,8 @@ https://github.com/plasma-umass/browsix
 JCreatorV5  
 
 * jaywcjlove/linux-command  
-https://github.com/jaywcjlove/linux-command  
-类似的文档化工具  
+https://github.com/jaywcjlove/linux-command   
+类似的文档化工具   
 
 ## Other  
 [public_work.md](public_work.md)  
