@@ -466,8 +466,8 @@ JCreatorV5
 https://github.com/jaywcjlove/linux-command   
 类似的文档化工具   
 
-* nuget  
-可用程序包源  
+* nuget  
+可用程序包源  
 (*) https://www.nuget.org/api/v2/  
 https://api.nuget.org/api/v3/index.json  
 https://www.nuget.org/api/v2  
