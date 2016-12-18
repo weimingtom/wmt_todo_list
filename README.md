@@ -308,6 +308,9 @@ https://hiloteam.github.io/index.html
 lufylegend.js  
 https://github.com/lufylegend/lufylegend.js  
 http://xfenglin.com/a/12007207150.html  
+soya2d  
+https://github.com/MrSoya/soya2d  
+http://soya2d.com/  
 
 * ssl  
 wolfSSL  
