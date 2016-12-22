@@ -346,6 +346,8 @@ https://github.com/aevum/libgdx-cpp
 https://github.com/weimingtom/wmt_android_screenshot  
 https://github.com/weimingtom/Adb-Remote-Screen/tree/wmt  
 https://github.com/weimingtom/wmt_android_screenshot_adbshell  
+免root兼容所有android屏幕实时共享及远程控制  
+https://github.com/android-notes/androidScreenShareAndControl  
 
 * search gui  
 framebuffer/cairo/gdiplus/gdi+/xwindow/wayland  
@@ -476,6 +478,6 @@ https://api.nuget.org/api/v3/index.json
 https://www.nuget.org/api/v2  
 
 
-## Other  
+## Other ?
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
