@@ -348,6 +348,9 @@ https://github.com/weimingtom/Adb-Remote-Screen/tree/wmt
 https://github.com/weimingtom/wmt_android_screenshot_adbshell  
 免root兼容所有android屏幕实时共享及远程控制  
 https://github.com/android-notes/androidScreenShareAndControl  
+AndroidDesignPreview  
+https://code.google.com/archive/p/android-ui-utils/  
+https://github.com/romannurik/AndroidDesignPreview  
 
 * search gui  
 framebuffer/cairo/gdiplus/gdi+/xwindow/wayland  
