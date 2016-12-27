@@ -477,6 +477,10 @@ https://github.com/jaywcjlove/linux-command
 https://api.nuget.org/api/v3/index.json  
 https://www.nuget.org/api/v2  
 
+* https://github.com/tordex/xuilib  
+Windows UI库（基于XML）  
+https://github.com/githubwanghui/xuilib  
+https://github.com/weimingtom/xuilib-1/tree/vs2013  
 
 ## Other ?
 [public_work.md](public_work.md)  
