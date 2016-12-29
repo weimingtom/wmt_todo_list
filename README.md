@@ -385,6 +385,7 @@ https://community.imgtec.com/developers/powervr/graphics-sdk/
 
 * weimingtom/danbo  
 https://github.com/weimingtom/danbo  
+<===============================================研究翻页效果与danbooru图片阅读器，目前停滞  
 
 * ejoy2d  
 https://github.com/ejoy/ejoy2d  
