@@ -496,6 +496,11 @@ https://github.com/atilika/kuromoji
 Jisho is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences and more quickly and easily.  
 http://jisho.org  
 
+* fauxpark/jisho  
+日英词典数据库  
+https://github.com/fauxpark/jisho  
+https://github.com/weimingtom/jisho  
+
 ## Other ?
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
