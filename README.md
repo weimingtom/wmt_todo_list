@@ -492,6 +492,10 @@ Kuromoji is an open source Japanese morphological analyzer written in Java.
 http://www.atilika.org  
 https://github.com/atilika/kuromoji  
 
+* Jisho  
+Jisho is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences and more quickly and easily.  
+http://jisho.org  
+
 ## Other ?
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
