@@ -501,6 +501,11 @@ http://jisho.org
 https://github.com/fauxpark/jisho  
 https://github.com/weimingtom/jisho  
 
+* kawt  
+search jbed/jbedvm  
+https://github.com/stefanhaustein/kawt  
+https://github.com/weimingtom/kawt  
+
 ## Other ?
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
