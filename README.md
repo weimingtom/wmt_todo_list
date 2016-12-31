@@ -506,6 +506,9 @@ search jbed/jbedvm
 https://github.com/stefanhaustein/kawt  
 https://github.com/weimingtom/kawt  
 
+* dalvik  
+https://github.com/weimingtom/dalvik_cygwin_port  
+
 ## Other ?
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
