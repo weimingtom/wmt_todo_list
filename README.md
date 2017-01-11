@@ -513,6 +513,9 @@ https://github.com/weimingtom/dalvik_cygwin_port
 android网络调试工具  
 https://github.com/facebook/stetho  
 
+* Csharp编码规范  
+http://www.mono-project.com/community/contributing/coding-guidelines/  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
