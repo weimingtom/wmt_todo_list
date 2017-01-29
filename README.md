@@ -521,6 +521,9 @@ http://www.mono-project.com/community/contributing/coding-guidelines/
 * layabox/layaair  
 https://github.com/layabox/layaair  
 
+* taizan/PaintsChainer  
+https://github.com/taizan/PaintsChainer  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
