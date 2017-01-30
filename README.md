@@ -99,9 +99,10 @@ https://github.com/weimingtom/WinClipboardExporter
 * java command line image converter/filter     
 https://github.com/weimingtom/charj  
 图像处理  
-https://github.com/oliver-moran/jimp  
+https://github.com/oliver-moran/jimp  
 旧收藏链接在这里  
 https://github.com/weimingtom/charj/blob/master/README.md  
+**停滞<=========================================================**  
 
 * font generater dialog  
 see toheart2 chinesize tool which use Delphi     
