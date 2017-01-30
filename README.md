@@ -524,6 +524,9 @@ https://github.com/layabox/layaair
 * taizan/PaintsChainer  
 https://github.com/taizan/PaintsChainer  
 
+* 图像处理  
+https://github.com/oliver-moran/jimp  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
