@@ -98,6 +98,10 @@ https://github.com/weimingtom/WinClipboardExporter
 
 * java command line image converter/filter     
 https://github.com/weimingtom/charj  
+图像处理  
+https://github.com/oliver-moran/jimp  
+旧收藏链接在这里  
+https://github.com/weimingtom/charj/blob/master/README.md  
 
 * font generater dialog  
 see toheart2 chinesize tool which use Delphi     
@@ -523,9 +527,6 @@ https://github.com/layabox/layaair
 
 * taizan/PaintsChainer  
 https://github.com/taizan/PaintsChainer  
-
-* 图像处理  
-https://github.com/oliver-moran/jimp  
 
 ## Other  
 [public_work.md](public_work.md)  
