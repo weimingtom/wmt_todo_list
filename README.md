@@ -540,6 +540,11 @@ https://github.com/MartinBrunn/strip
 考虑重写  
 https://github.com/hametsu/futaba  
 
+* ReadyTalk/avian  
+Java运行时(VM)    
+尝试在Windows上运行swt界面  
+https://github.com/ReadyTalk/avian  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
