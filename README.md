@@ -532,8 +532,13 @@ https://github.com/taizan/PaintsChainer
 * plenluno/libj  
 https://github.com/plenluno/libj  
 
-* MartinBrunn/strip  
+* 删除注释  
+MartinBrunn/strip  
 https://github.com/MartinBrunn/strip  
+
+* hametsu/futaba  
+考虑重写  
+https://github.com/hametsu/futaba  
 
 ## Other  
 [public_work.md](public_work.md)  
