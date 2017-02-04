@@ -529,6 +529,12 @@ https://github.com/layabox/layaair
 * taizan/PaintsChainer  
 https://github.com/taizan/PaintsChainer  
 
+* plenluno/libj  
+https://github.com/plenluno/libj  
+
+* MartinBrunn/strip  
+https://github.com/MartinBrunn/strip  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
