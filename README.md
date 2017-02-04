@@ -175,8 +175,11 @@ https://github.com/Mosesofmason/futallaby-zh
 
 * papervision3d / pv3d / away3d  
 https://github.com/weimingtom/papervision3d  
-https://github.com/weimingtom/papervision3d_java  
 https://github.com/weimingtom/away3d  
+https://github.com/weimingtom/papervision3d_java  
+see doc/pv3d2_v10.rar    
+see weimingtom/papervision3d the oldest commit  
+**停滞<=========================================================**  
 
 * 3d fps   
 game-ide  
