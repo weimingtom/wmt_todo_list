@@ -562,6 +562,10 @@ Java运行时(VM)
 尝试在Windows上运行swt界面  
 https://github.com/ReadyTalk/avian  
 
+* https://github.com/xanathar/moonsharp  
+
+* https://github.com/mjanicek/rembulan  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
