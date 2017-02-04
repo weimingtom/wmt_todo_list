@@ -73,8 +73,22 @@ https://github.com/weimingtom/myosotis2
 * coapp-packages/boehm-gc  
 Hans_Boehm/gc  
 https://github.com/coapp-packages/boehm-gc  
+ivmai/bdwgc  
+http://www.hboehm.info/gc/  
+https://github.com/ivmai/bdwgc  
 qrux/xwing  
 https://github.com/qrux/xwing  
+plenluno/libj  
+https://github.com/plenluno/libj  
+plenluno/libnode  
+https://github.com/plenluno/libnode  
+aevum/libgdx-cpp  
+https://github.com/aevum/libgdx-cpp  
+Java向C++移植  
+https://github.com/weimingtom/wmt_port_note  
+weimingtom/xwing  
+https://github.com/weimingtom/xwing  
+**停滞<=========================================================**  
 
 * dictims  
 https://github.com/weimingtom/dictims  
