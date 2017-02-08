@@ -333,6 +333,8 @@ http://xfenglin.com/a/12007207150.html
 soya2d  
 https://github.com/MrSoya/soya2d  
 http://soya2d.com/  
+flashlizi/casualjs  
+https://github.com/flashlizi/casualjs  
 
 * ssl  
 wolfSSL  
