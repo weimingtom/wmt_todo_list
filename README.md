@@ -116,6 +116,8 @@ https://github.com/weimingtom/charj
 https://github.com/oliver-moran/jimp  
 旧收藏链接在这里  
 https://github.com/weimingtom/charj/blob/master/README.md  
+weimingtom/MyChar  
+https://github.com/weimingtom/MyChar  
 **停滞<=========================================================**  
 
 * font generater dialog  
@@ -568,6 +570,10 @@ https://github.com/ReadyTalk/avian
 
 * https://github.com/mjanicek/rembulan  
 
-## Other  
+* creationix/node-sdl  
+https://github.com/creationix/node-sdl  
+**=========================================================>SDL移植到node,非ffi方式**  
+
+## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
