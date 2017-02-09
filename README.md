@@ -507,7 +507,7 @@ https://github.com/jaywcjlove/linux-command
 https://api.nuget.org/api/v3/index.json  
 https://www.nuget.org/api/v2  
 
-* xuilib
+* xuilib  
 https://github.com/tordex/xuilib  
 Windows UI库（基于XML）  
 https://github.com/githubwanghui/xuilib  
@@ -571,7 +571,7 @@ https://github.com/ReadyTalk/avian
 * https://github.com/mjanicek/rembulan  
 
 * creationix/node-sdl  
-https://github.com/creationix/node-sdl  
+https://github.com/creationix/node-sdl  
 **=========================================================>SDL移植到node,非ffi方式**  
 
 ## Other  
