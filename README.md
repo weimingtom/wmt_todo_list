@@ -574,6 +574,10 @@ https://github.com/ReadyTalk/avian
 https://github.com/creationix/node-sdl  
 **=========================================================>SDL移植到node,非ffi方式**  
 
+* miglayout  
+http://www.miglayout.com/  
+jnlp  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
