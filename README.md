@@ -578,6 +578,11 @@ https://github.com/creationix/node-sdl
 http://www.miglayout.com/  
 jnlp  
 
+* Lua to other language translator    
+https://github.com/weimingtom/chunktrans  
+https://github.com/weimingtom/chunktrans_java  
+**=========================================================>研究方向**  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
