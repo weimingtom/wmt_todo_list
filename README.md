@@ -583,6 +583,8 @@ https://github.com/weimingtom/chunktrans
 https://github.com/weimingtom/chunktrans_java  
 **=========================================================>研究方向**  
 
+* https://github.com/dreamsxin/AsWing  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
