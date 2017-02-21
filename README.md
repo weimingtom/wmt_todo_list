@@ -212,6 +212,7 @@ pdf
 
 * weimingtom/nokscript_java  
 https://github.com/weimingtom/nokscript_java  
+**停滞<=========================================================**  
 
 * alienblaster (sdl android)   
 https://github.com/pelya/commandergenius/releases?after=android-market-release-02  
