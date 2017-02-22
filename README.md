@@ -594,6 +594,9 @@ https://github.com/weimingtom/ugame
 https://github.com/weimingtom/swc/tree/master/swc  
 **=========================================================>停滞**  
 
+* weimingtom/nanamichan  
+https://github.com/weimingtom/nanamichan  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
