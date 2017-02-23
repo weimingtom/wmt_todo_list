@@ -597,6 +597,9 @@ https://github.com/weimingtom/swc/tree/master/swc
 * weimingtom/nanamichan  
 https://github.com/weimingtom/nanamichan  
 
+* weimingtom/moe-loader-v7  
+https://github.com/weimingtom/moe-loader-v7  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
