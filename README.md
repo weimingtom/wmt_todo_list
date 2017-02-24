@@ -595,7 +595,7 @@ https://github.com/weimingtom/swc/tree/master/swc
 **=========================================================>停滞**  
 
 * 图片相册  
-weimingtom/nanamichan  
+weimingtom/nanamichan  
 https://github.com/weimingtom/nanamichan  
 weimingtom/moe-loader-v7  
 https://github.com/weimingtom/moe-loader-v7  
