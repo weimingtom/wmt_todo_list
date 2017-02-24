@@ -600,6 +600,10 @@ https://github.com/weimingtom/nanamichan
 * weimingtom/moe-loader-v7  
 https://github.com/weimingtom/moe-loader-v7  
 
+* 音乐播放器   
+https://github.com/Rifu/hifumi  
+http://ganbaruzoi.moe/  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
