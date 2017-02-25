@@ -1,4 +1,4 @@
-﻿# wmt_todo_list
+# wmt_todo_list
 Nothing seek, nothing find.
 
 
@@ -603,6 +603,12 @@ https://github.com/weimingtom/moe-loader-v7
 * 音乐播放器   
 https://github.com/Rifu/hifumi  
 http://ganbaruzoi.moe/  
+
+* 斯特拉的魔法minigame（flash游戏）  
+http://www.dokidokivisual.com/magic_of_stella/index.php#minigame  
+http://www.dokidokivisual.com/magic_of_stella/starchaser201404.php  
+http://www.dokidokivisual.com/magic_of_stella/star_shooter_2015_april.php  
+http://www.dokidokivisual.com/magic_of_stella/star_liner_magicofstella_2016.php  
 
 ## Other  
 [public_work.md](public_work.md)  
