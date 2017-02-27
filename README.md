@@ -594,11 +594,13 @@ https://github.com/weimingtom/ugame
 https://github.com/weimingtom/swc/tree/master/swc  
 **=========================================================>停滞**  
 
-* 图片相册  
+* 图片相册(Client/Server/Mobile)    
 weimingtom/nanamichan  
 https://github.com/weimingtom/nanamichan  
 weimingtom/moe-loader-v7  
 https://github.com/weimingtom/moe-loader-v7  
+weimingtom/danbo  
+https://github.com/weimingtom/danbo  
 
 * 音乐播放器   
 https://github.com/Rifu/hifumi  
