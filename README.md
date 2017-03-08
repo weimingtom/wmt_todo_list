@@ -619,6 +619,10 @@ https://github.com/RonaldoSetzer/GAME-Tetris
 * Image Viewer  
 https://github.com/zelon/ZViewer  
 
+* chrome  
+* http://www.cnblogs.com/cdamo/archive/2012/10/12/2720842.html  
+* **download iso files!!!**  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
