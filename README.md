@@ -645,6 +645,11 @@ https://github.com/weimingtom/ugame
 * flash to html5 (???)  
 use swfdec  
 
+* animate.css  
+https://daneden.github.io/animate.css/  
+http://www.dowebok.com/98.html  
+http://www.dowebok.com/demo/2014/98/  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
