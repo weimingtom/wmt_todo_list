@@ -654,7 +654,7 @@ http://www.dowebok.com/demo/2014/98/
 https://github.com/Fluorohydride/ygopro  
 
 * html5图形 / 流程图  
-raphael  
+raphael  
 https://github.com/DmitryBaranovskiy/raphael  
 基于Raphael的流程设计器，前台部分  
 http://blog.csdn.net/moonshine_1988/article/details/35561093  
@@ -662,6 +662,13 @@ UnitaryJS
 https://github.com/pandanoir/unitaryjs  
 RaphaelJsDrawProcess  
 https://github.com/Jinx009/RaphaelJsDrawProcess  
+
+* search 流程设计器 流程定义  
+https://github.com/besley/SlickOne  
+https://github.com/snakerflow/snaker-designer  
+
+* doc2html转换器  
+https://github.com/weimingtom/converter  
 
 ## Other  
 [public_work.md](public_work.md)  
