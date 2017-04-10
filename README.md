@@ -667,8 +667,12 @@ https://github.com/Jinx009/RaphaelJsDrawProcess
 https://github.com/besley/SlickOne  
 https://github.com/snakerflow/snaker-designer  
 
-* doc2html转换器  
+* Excel2Html转换器  
 https://github.com/weimingtom/converter  
+
+* activiti工作流 / 工作流引擎  
+https://github.com/xshzhao/workFlow  
+https://github.com/ypp4521/myworkflow  
 
 ## Other  
 [public_work.md](public_work.md)  
