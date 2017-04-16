@@ -679,6 +679,9 @@ https://github.com/ypp4521/myworkflow
 LLVM to Common Lisp transpiler.  
 https://github.com/froggey/Iota  
 
+* newlib  
+https://sourceware.org/newlib/  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
