@@ -682,6 +682,9 @@ https://github.com/froggey/Iota
 * newlib  
 https://sourceware.org/newlib/  
 
+* litho  
+https://github.com/facebook/litho  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
