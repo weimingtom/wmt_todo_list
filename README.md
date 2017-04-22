@@ -685,6 +685,9 @@ https://sourceware.org/newlib/
 * litho  
 https://github.com/facebook/litho  
 
+* spriteflexjs (flexjs)  
+https://github.com/matrix3d/spriteflexjs  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
