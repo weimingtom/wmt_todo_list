@@ -703,6 +703,10 @@ https://github.com/fstn/WindowsPhoneApps/tree/master/FstnUserControl/WriteableBi
 https://github.com/vadosnaprimer/swingme  
 https://sourceforge.net/projects/swingme/   
 
+* mini2dx  
+https://mini2dx.org/  
+https://github.com/mini2Dx/mini2Dx  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
