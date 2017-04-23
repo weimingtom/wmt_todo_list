@@ -700,8 +700,8 @@ https://github.com/teichgraf/WriteableBitmapEx
 https://github.com/fstn/WindowsPhoneApps/tree/master/FstnUserControl/WriteableBitmap  
 
 * swingme (j2me/java me)  
-https://github.com/vadosnaprimer/swingme  
-https://sourceforge.net/projects/swingme/  
+https://github.com/vadosnaprimer/swingme  
+https://sourceforge.net/projects/swingme/   
 
 ## Other  
 [public_work.md](public_work.md)  
