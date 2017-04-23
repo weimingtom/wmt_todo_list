@@ -692,6 +692,9 @@ https://github.com/matrix3d/spriteflexjs
 * search kakalib  
 http://bbs.9ria.com/thread-108718-1-1.html  
 
+* lanterna (java console)  
+https://github.com/mabe02/lanterna  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
