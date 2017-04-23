@@ -689,6 +689,9 @@ https://github.com/facebook/litho
 * spriteflexjs (flexjs)  
 https://github.com/matrix3d/spriteflexjs  
 
+* search kakalib  
+http://bbs.9ria.com/thread-108718-1-1.html  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
