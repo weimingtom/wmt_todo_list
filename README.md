@@ -695,6 +695,10 @@ http://bbs.9ria.com/thread-108718-1-1.html
 * lanterna (java console)  
 https://github.com/mabe02/lanterna  
 
+* WriteableBitmapEx    
+https://github.com/teichgraf/WriteableBitmapEx  
+https://github.com/fstn/WindowsPhoneApps/tree/master/FstnUserControl/WriteableBitmap  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
