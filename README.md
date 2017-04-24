@@ -715,6 +715,9 @@ https://github.com/NaikSoftware/J2meLoader
 * 3D_Game_Engine (sofeware renderer)  
 https://github.com/Jugis/3D_Game_Engine  
 
+* uleelx/lupy  
+https://github.com/uleelx/lupy  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
