@@ -96,6 +96,8 @@ https://github.com/weimingtom/dictims
 * How to use SCons  
 markglenn/MiniUI  
 https://github.com/markglenn/MiniUI  
+https://github.com/weimingtom/MiniUI  
+**停滞<=========================================================**  
 
 * ipython  
 ipython   
