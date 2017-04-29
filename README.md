@@ -718,6 +718,14 @@ https://github.com/Jugis/3D_Game_Engine
 * uleelx/lupy  
 https://github.com/uleelx/lupy  
 
+* editarea  
+http://www.cdolivet.com/editarea/  
+http://codemirror.net  
+https://ace.c9.io  
+
+* luacheck  
+https://github.com/mpeterv/luacheck  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
