@@ -726,6 +726,11 @@ https://ace.c9.io
 * luacheck  
 https://github.com/mpeterv/luacheck  
 
+* minijoe  
+https://github.com/weimingtom/minijoe  
+https://github.com/chendz/SuperMinijoe  
+https://github.com/maks/ooksi  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
