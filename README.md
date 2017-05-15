@@ -734,6 +734,9 @@ https://github.com/maks/ooksi
 * ZuiLib  
 https://github.com/zentelfong/ZuiLib  
 
+* mmoarpgserver  
+https://github.com/xinjuncoding/mmoarpgserver  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
