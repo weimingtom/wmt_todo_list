@@ -731,6 +731,9 @@ https://github.com/weimingtom/minijoe
 https://github.com/chendz/SuperMinijoe  
 https://github.com/maks/ooksi  
 
+* ZuiLib  
+https://github.com/zentelfong/ZuiLib  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
