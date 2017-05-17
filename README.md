@@ -740,6 +740,9 @@ https://github.com/xinjuncoding/mmoarpgserver
 * valgrind的callgrind工具进行多线程性能分析  
 http://www.cnblogs.com/zengkefu/p/5642991.html  
 
+* xxtea  
+https://github.com/weimingtom/cocos-lua-encode-tool  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
