@@ -119,7 +119,9 @@ https://github.com/oliver-moran/jimp
 旧收藏链接在这里  
 https://github.com/weimingtom/charj/blob/master/README.md  
 weimingtom/MyChar  
-https://github.com/weimingtom/MyChar  
+https://github.com/weimingtom/MyChar  
+图像处理 (nodejs)  
+https://github.com/lovell/sharp  
 **停滞<=========================================================**  
 
 * font generater dialog  
