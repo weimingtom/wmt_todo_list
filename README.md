@@ -745,6 +745,9 @@ http://www.cnblogs.com/zengkefu/p/5642991.html
 * xxtea  
 https://github.com/weimingtom/cocos-lua-encode-tool  
 
+* 创建场景  
+search 创建场景  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
