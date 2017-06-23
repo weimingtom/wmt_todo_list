@@ -750,6 +750,9 @@ https://github.com/weimingtom/cocos-lua-encode-tool
 * 创建场景  
 search 创建场景  
 
+* LuaSTGPlus  
+https://github.com/9chu/LuaSTGPlus  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
