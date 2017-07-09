@@ -121,7 +121,9 @@ https://github.com/weimingtom/charj/blob/master/README.md
 weimingtom/MyChar  
 https://github.com/weimingtom/MyChar  
 图像处理 (nodejs)  
-https://github.com/lovell/sharp  
+https://github.com/lovell/sharp  
+pixelitor  
+http://pixelitor.sourceforge.net/  
 **停滞<=========================================================**  
 
 * font generater dialog  
