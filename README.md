@@ -124,6 +124,7 @@ https://github.com/weimingtom/MyChar
 https://github.com/lovell/sharp  
 pixelitor  
 http://pixelitor.sourceforge.net/  
+https://github.com/lbalazscs/Pixelitor  
 **停滞<=========================================================**  
 
 * font generater dialog  
