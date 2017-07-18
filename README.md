@@ -756,6 +756,9 @@ search 创建场景
 * LuaSTGPlus  
 https://github.com/9chu/LuaSTGPlus  
 
+* hifumi  
+https://github.com/Rifu/hifumi  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
