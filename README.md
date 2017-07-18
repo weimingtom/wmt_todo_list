@@ -759,6 +759,9 @@ https://github.com/9chu/LuaSTGPlus
 * hifumi  
 https://github.com/Rifu/hifumi  
 
+* Doudizhu  
+https://github.com/ScutGame/Scut-samples/tree/master/Doudizhu  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
