@@ -558,7 +558,8 @@ http://www.mono-project.com/community/contributing/coding-guidelines/
 https://github.com/layabox/layaair  
 
 * taizan/PaintsChainer  
-https://github.com/taizan/PaintsChainer  
+https://github.com/taizan/PaintsChainer  
+线稿自动上色  
 
 * plenluno/libj  
 https://github.com/plenluno/libj  
