@@ -766,6 +766,9 @@ https://github.com/ScutGame/Scut-samples/tree/master/Doudizhu
 * 自动头像生成  
 https://github.com/makegirlsmoe/makegirls.moe_web  
 
+* AS3Eval  
+http://eval.hurlant.com  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
