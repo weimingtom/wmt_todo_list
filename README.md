@@ -776,6 +776,11 @@ https://godotengine.org/download
 https://github.com/jgraph/drawio-desktop  
 https://github.com/jgraph/drawio  
 
+* mxgraph  
+https://github.com/jgraph/mxgraph  
+https://github.com/jgraph/mxgraph/tree/master/javascript/examples/grapheditor  
+https://jgraph.github.io/mxgraph/javascript/examples/grapheditor/www/index.html  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
