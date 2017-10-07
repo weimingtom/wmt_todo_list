@@ -784,6 +784,9 @@ https://jgraph.github.io/mxgraph/javascript/examples/grapheditor/www/index.html
 * css animation  
 https://github.com/Martz90/vivify  
 
+* PS Suite SDK  
+http://pss.dl.playstation.net/pss/sdk/PSSuiteSDK_098.exe  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
