@@ -788,6 +788,8 @@ https://github.com/Martz90/vivify
 http://pss.dl.playstation.net/pss/sdk/PSSuiteSDK_098.exe  
 PS Suite SDK官方开发帮助文档完整中文翻译  
 http://psv.tgbus.com/psvjc/201205/20120529163344.shtml    
+psm  
+https://github.com/fantasydr/krkr-cs/blob/platform-psm/TVP2/Main.cs  
 
 * ScintillaNET  
 https://github.com/jacobslusser/ScintillaNET  
