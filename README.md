@@ -790,6 +790,9 @@ PS Suite SDK官方开发帮助文档完整中文翻译
 http://psv.tgbus.com/psvjc/201205/20120529163344.shtml    
 psm  
 https://github.com/fantasydr/krkr-cs/blob/platform-psm/TVP2/Main.cs  
+PSM_SDK_1.21.02.exe  
+http://psm-resource.np.dl.playstation.net/psm_resource/general/all/PSM_SDK_1.21.02.exe  
+https://www.techbang.com/posts/24342  
 
 * ScintillaNET  
 https://github.com/jacobslusser/ScintillaNET  
