@@ -800,6 +800,8 @@ https://github.com/jacobslusser/ScintillaNET
 * png to icon  
 http://www.easyicon.net/covert/  
 
+* picasa  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
