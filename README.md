@@ -802,6 +802,11 @@ http://www.easyicon.net/covert/
 
 * picasa  
 
+* 新编辑器Cocos Creator发布：对不起我来晚了！  
+http://ol.tgbus.com/news/cyxw/201601/13772206.shtml  
+https://github.com/cocos-creator/tutorial-blackjack  
+http://www.cocos.com/docs/creator/getting-started/index.html  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
