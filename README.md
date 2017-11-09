@@ -810,6 +810,10 @@ http://www.cocos.com/docs/creator/getting-started/index.html
 
 * sqlite server version  
 
+* arduboy  
+http://seeed.wiki/Arduboy/  
+https://community.arduboy.com  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
