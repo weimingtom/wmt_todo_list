@@ -811,6 +811,7 @@ http://www.cocos.com/docs/creator/getting-started/index.html
 * sqlite server version  
 
 * arduboy  
+https://github.com/Arduboy/Arduboy  
 http://seeed.wiki/Arduboy/  
 https://community.arduboy.com  
 
