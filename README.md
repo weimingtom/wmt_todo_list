@@ -828,6 +828,11 @@ http://bbs.eeworld.com.cn/forum.php
 
 * https://github.com/vaniacer/piu-piu-SH  
 
+* SNES Classic  
+https://github.com/ClusterM/hakchi2  
+任天堂复刻版SNES被破解：可玩自定义游戏ROM  
+http://www.sohu.com/a/197098448_114760  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
