@@ -833,6 +833,8 @@ https://github.com/ClusterM/hakchi2
 任天堂复刻版SNES被破解：可玩自定义游戏ROM  
 http://www.sohu.com/a/197098448_114760  
 
+* https://github.com/LeonardoZ/java-concurrency-patterns  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
