@@ -127,6 +127,7 @@ http://pixelitor.sourceforge.net/
 https://github.com/lbalazscs/Pixelitor  
 **停滞<=========================================================**  
 https://github.com/ragnraok/android-image-filter  
+https://github.com/davidhart/PhotoTunesPrototype  
 
 * font generater dialog  
 see toheart2 chinesize tool which use Delphi     
