@@ -836,6 +836,8 @@ http://www.sohu.com/a/197098448_114760
 
 * https://github.com/LeonardoZ/java-concurrency-patterns  
 
+* https://github.com/naudio/NAudio  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
