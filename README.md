@@ -838,6 +838,8 @@ http://www.sohu.com/a/197098448_114760
 
 * https://github.com/naudio/NAudio  
 
+* https://github.com/google/cpu_features  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
