@@ -846,6 +846,11 @@ http://www.sohu.com/a/197098448_114760
 
 * https://github.com/panda3d/panda3d  
 
+* vitasdk  
+http://vitasdk.org  
+https://github.com/vitasdk/vdpm  
+https://github.com/vitasdk/autobuilds/  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
