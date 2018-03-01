@@ -348,6 +348,8 @@ https://github.com/MrSoya/soya2d
 http://soya2d.com/  
 flashlizi/casualjs  
 https://github.com/flashlizi/casualjs  
+konva / konvajs  
+https://github.com/konvajs/konva  
 
 * ssl  
 wolfSSL  
