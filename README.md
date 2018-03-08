@@ -857,6 +857,8 @@ https://github.com/vitasdk/autobuilds/
 https://github.com/mixtile/xskit  
 https://github.com/mixtile/gena-doc  
 
+* https://github.com/glouw/littlewolf  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
