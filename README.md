@@ -859,6 +859,8 @@ https://github.com/mixtile/gena-doc
 
 * https://github.com/glouw/littlewolf  
 
+* https://github.com/Genymobile/scrcpy  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
