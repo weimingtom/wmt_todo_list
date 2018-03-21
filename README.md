@@ -861,6 +861,10 @@ https://github.com/mixtile/gena-doc
 
 * https://github.com/Genymobile/scrcpy  
 
+* https://github.com/bmqb/tower_game  
+
+* https://github.com/AirtestProject/Airtest  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
