@@ -878,6 +878,14 @@ https://github.com/lijun0326/SIF-Win32
 https://github.com/bliustar/SIF_Win32  
 https://www.reddit.com/r/SchoolIdolFestival/comments/4n4d4s/other_sifwin32_a_windows_port_of_love_live_school/  
 
+* jx3  
+https://github.com/haimanman/jx3/tree/master  
+http://jx3.hehagame.com/ShowArt91865.html  
+http://bbs.duowan.com/thread-19431860-1-1.html  
+https://progamercity.net/game-files/7168-jx3-pak-reader-tool.html  
+
+* https://github.com/WaveEngine  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
