@@ -873,6 +873,11 @@ https://github.com/mixtile/gena-doc
 https://github.com/qingfeng346/Scorpio-CSharp  
 https://github.com/qingfeng346/ScorpioUnitySample  
 
+* SIF-Win32 / SIF_Win32    
+https://github.com/lijun0326/SIF-Win32  
+https://github.com/bliustar/SIF_Win32  
+https://www.reddit.com/r/SchoolIdolFestival/comments/4n4d4s/other_sifwin32_a_windows_port_of_love_live_school/  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
