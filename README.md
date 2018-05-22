@@ -886,6 +886,11 @@ https://progamercity.net/game-files/7168-jx3-pak-reader-tool.html
 
 * https://github.com/WaveEngine  
 
+* 游戏行业的100种死法（六十九）  
+https://zhuanlan.zhihu.com/p/36787928  
+游戏行业的100种死法（七十）  
+https://zhuanlan.zhihu.com/p/37069935  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
