@@ -891,7 +891,10 @@ https://zhuanlan.zhihu.com/p/36787928
 游戏行业的100种死法（七十）  
 https://zhuanlan.zhihu.com/p/37069935  
 
-* https://github.com/OpenDUNE/OpenDUNE  
+* 沙丘2  
+https://github.com/OpenDUNE/OpenDUNE  
+https://linuxtoy.org/archives/dune-ii-html5.html  
+https://github.com/caiiiycuk/play-dune  
 
 ## Other  
 [public_work.md](public_work.md)  
