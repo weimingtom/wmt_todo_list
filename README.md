@@ -898,6 +898,12 @@ https://github.com/caiiiycuk/play-dune
 
 * https://github.com/mainhc/UnrealEngine  
 
+* Diablo devolved - magic behind the 1996 computer game  
+https://github.com/galaxyhaxz/devilution  
+
+* FBGraphics : Lightweight C graphics library for the Linux framebuffer with parallelism support  
+https://github.com/grz0zrg/fbg  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
