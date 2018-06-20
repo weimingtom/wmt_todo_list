@@ -904,6 +904,10 @@ https://github.com/galaxyhaxz/devilution
 * FBGraphics : Lightweight C graphics library for the Linux framebuffer with parallelism support  
 https://github.com/grz0zrg/fbg  
 
+* Animated sprite editor & pixel art tool (Windows, macOS, Linux)  
+https://github.com/aseprite/aseprite  
+https://github.com/LibreSprite/LibreSprite  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
