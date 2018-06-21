@@ -350,6 +350,8 @@ flashlizi/casualjs
 https://github.com/flashlizi/casualjs  
 konva / konvajs  
 https://github.com/konvajs/konva  
+spritejs  
+https://github.com/spritejs/spritejs  
 
 * ssl  
 wolfSSL  
