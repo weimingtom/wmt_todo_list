@@ -910,6 +910,10 @@ https://github.com/grz0zrg/fbg
 https://github.com/aseprite/aseprite  
 https://github.com/LibreSprite/LibreSprite  
 
+* ioquake  
+https://github.com/ariya/ioquake3  
+https://github.com/ioquake/ioq3  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
