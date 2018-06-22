@@ -352,6 +352,8 @@ konva / konvajs
 https://github.com/konvajs/konva  
 spritejs  
 https://github.com/spritejs/spritejs  
+cax  
+https://github.com/dntzhang/cax  
 
 * ssl  
 wolfSSL  
