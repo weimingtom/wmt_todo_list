@@ -919,6 +919,11 @@ https://github.com/ioquake/ioq3
 * teeworlds  
 https://github.com/teeworlds/teeworlds  
 
+* Tencent/behaviac
+https://github.com/Tencent/behaviac
+http://www.behaviac.com
+https://www.csdn.net/article/2015-05-25/2824768  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
