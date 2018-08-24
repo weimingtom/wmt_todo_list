@@ -924,6 +924,9 @@ https://github.com/Tencent/behaviac
 http://www.behaviac.com
 https://www.csdn.net/article/2015-05-25/2824768  
 
+* Windows 95  
+https://github.com/felixrieseberg/windows95  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
