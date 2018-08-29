@@ -919,9 +919,9 @@ https://github.com/ioquake/ioq3
 * teeworlds  
 https://github.com/teeworlds/teeworlds  
 
-* Tencent/behaviac
-https://github.com/Tencent/behaviac
-http://www.behaviac.com
+* Tencent/behaviac  
+https://github.com/Tencent/behaviac  
+http://www.behaviac.com  
 https://www.csdn.net/article/2015-05-25/2824768  
 
 * Windows 95  
