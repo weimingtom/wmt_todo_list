@@ -930,6 +930,9 @@ https://github.com/felixrieseberg/windows95
 * CivJS  
 https://github.com/Venerons/CivJS  
 
+* openmw  
+https://github.com/OpenMW/openmw  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
