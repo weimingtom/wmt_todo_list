@@ -949,6 +949,7 @@ https://github.com/rwv/chinese-dos-games
 http://tieba.baidu.com/p/3544694335  
 https://gitee.com/pig/Dorothy  
 http://www.luvfight.me  
+https://github.com/IppClub/Dorothy  
 
 ## Other  
 [public_work.md](public_work.md)  
