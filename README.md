@@ -945,6 +945,11 @@ https://github.com/OpenTTD/OpenTTD
 * chinese-dos-games  
 https://github.com/rwv/chinese-dos-games  
 
+* Dorothy  
+http://tieba.baidu.com/p/3544694335  
+https://gitee.com/pig/Dorothy  
+http://www.luvfight.me  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
