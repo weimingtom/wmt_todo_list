@@ -942,6 +942,9 @@ https://github.com/OpenRA/OpenRA
 * OpenTTD  
 https://github.com/OpenTTD/OpenTTD  
 
+* chinese-dos-games  
+https://github.com/rwv/chinese-dos-games  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
