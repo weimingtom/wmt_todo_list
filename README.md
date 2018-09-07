@@ -951,6 +951,9 @@ https://gitee.com/pig/Dorothy
 http://www.luvfight.me  
 https://github.com/IppClub/Dorothy  
 
+* FreeDOS  
+https://github.com/PerditionC/fdkernel  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
