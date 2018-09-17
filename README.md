@@ -954,6 +954,9 @@ https://github.com/IppClub/Dorothy
 * FreeDOS  
 https://github.com/PerditionC/fdkernel  
 
+* 386bsd  
+https://github.com/386bsd/386bsd  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
