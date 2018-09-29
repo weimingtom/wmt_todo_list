@@ -960,6 +960,9 @@ https://github.com/386bsd/386bsd
 * lvgl  
 https://github.com/littlevgl/lvgl  
 
+* gaga  
+https://github.com/duckchat/gaga  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
