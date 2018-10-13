@@ -963,6 +963,9 @@ https://github.com/littlevgl/lvgl
 * gaga  
 https://github.com/duckchat/gaga  
 
+* os-tutorial  
+https://github.com/cfenollosa/os-tutorial  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
