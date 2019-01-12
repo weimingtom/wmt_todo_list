@@ -969,6 +969,8 @@ https://github.com/cfenollosa/os-tutorial
 * The Delta Engine is an open source application engine and free to use on PC  
 http://deltaengine.net  
 
+* https://github.com/yujiangshui/A-Programmers-Guide-to-English  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
