@@ -971,6 +971,8 @@ http://deltaengine.net
 
 * https://github.com/yujiangshui/A-Programmers-Guide-to-English  
 
+* https://github.com/amzeratul/halley  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
