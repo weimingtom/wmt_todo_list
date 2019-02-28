@@ -973,6 +973,8 @@ http://deltaengine.net
 
 * https://github.com/amzeratul/halley  
 
+* https://github.com/TechnoVisual/Pygame-Zero  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
