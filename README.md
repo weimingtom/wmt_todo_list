@@ -975,6 +975,8 @@ http://deltaengine.net
 
 * https://github.com/TechnoVisual/Pygame-Zero  
 
+* https://github.com/Microsoft/calculator  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
