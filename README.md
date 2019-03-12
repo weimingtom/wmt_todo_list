@@ -977,6 +977,8 @@ http://deltaengine.net
 
 * https://github.com/Microsoft/calculator  
 
+* https://github.com/pr0g/cmake-examples  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
