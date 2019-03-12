@@ -979,6 +979,8 @@ http://deltaengine.net
 
 * https://github.com/pr0g/cmake-examples  
 
+* https://github.com/marcan/takeover.sh  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
