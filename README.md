@@ -987,6 +987,8 @@ http://deltaengine.net
 
 * https://github.com/ShizukuIchi/winXP  
 
+* https://github.com/vsergeev/vavrdisasm  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
