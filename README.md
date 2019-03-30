@@ -989,6 +989,8 @@ http://deltaengine.net
 
 * https://github.com/vsergeev/vavrdisasm  
 
+* https://github.com/goproxyio/goproxy  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
