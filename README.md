@@ -991,6 +991,8 @@ http://deltaengine.net
 
 * https://github.com/goproxyio/goproxy  
 
+* https://github.com/spotify/NFHTTP  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
