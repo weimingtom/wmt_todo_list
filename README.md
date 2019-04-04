@@ -993,6 +993,8 @@ http://deltaengine.net
 
 * https://github.com/spotify/NFHTTP  
 
+* https://github.com/WarpPrism/AutoPiano  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
