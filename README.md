@@ -995,6 +995,8 @@ http://deltaengine.net
 
 * https://github.com/WarpPrism/AutoPiano  
 
+* https://github.com/Snailclimb/JavaGuide  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
