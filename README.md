@@ -1003,6 +1003,8 @@ http://deltaengine.net
 
 * https://github.com/arturbien/React95  
 
+* https://github.com/chrismaltby/gb-studio  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
