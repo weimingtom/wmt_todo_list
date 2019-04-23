@@ -1005,6 +1005,8 @@ http://deltaengine.net
 
 * https://github.com/chrismaltby/gb-studio  
 
+* https://github.com/jgraph/jgraphx  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
