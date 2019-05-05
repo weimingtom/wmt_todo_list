@@ -1020,6 +1020,8 @@ https://www.runoob.com
 
 * https://github.com/jackfrued/Python-100-Days  
 
+* https://github.com/jaywcjlove/linux-command  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
