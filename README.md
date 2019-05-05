@@ -1022,6 +1022,8 @@ https://www.runoob.com
 
 * https://github.com/jaywcjlove/linux-command  
 
+* https://github.com/aimerforreimu/auxpi  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
