@@ -1024,6 +1024,8 @@ https://www.runoob.com
 
 * https://github.com/aimerforreimu/auxpi  
 
+* https://github.com/bilibili/kratos  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
