@@ -1030,6 +1030,8 @@ https://www.runoob.com
 
 * https://github.com/Jinxiansen/SwiftUI  
 
+* https://github.com/sfyc23/EverydayWechat  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
