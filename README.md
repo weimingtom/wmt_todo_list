@@ -1032,6 +1032,8 @@ https://www.runoob.com
 
 * https://github.com/sfyc23/EverydayWechat  
 
+* https://github.com/dylanaraps/pure-bash-bible  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
