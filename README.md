@@ -1046,6 +1046,8 @@ https://www.runoob.com
 
 * https://github.com/vlang/v  
 
+* https://github.com/microsoft/mimalloc  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
