@@ -1052,6 +1052,8 @@ https://www.runoob.com
 
 * https://github.com/hollischuang/toBeTopJavaer  
 
+* https://github.com/soapyigu/Swift-30-Projects  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
