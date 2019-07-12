@@ -1059,6 +1059,7 @@ https://www.runoob.com
 * https://github.com/LewisJEllis/awesome-lua  
 
 * https://github.com/ninja-build/ninja  
+https://ninja-build.org/manual.html  
 
 ## Other  
 [public_work.md](public_work.md)  
