@@ -1061,6 +1061,8 @@ https://www.runoob.com
 * https://github.com/ninja-build/ninja  
 https://ninja-build.org/manual.html  
 
+* https://github.com/Advanced-Frontend/Daily-Interview-Question  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
