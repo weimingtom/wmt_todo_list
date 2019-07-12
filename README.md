@@ -1056,6 +1056,8 @@ https://www.runoob.com
 
 * https://github.com/yaoguangluo/Deta_Parser  
 
+* https://github.com/LewisJEllis/awesome-lua  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
