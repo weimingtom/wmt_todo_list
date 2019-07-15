@@ -1065,6 +1065,8 @@ https://ninja-build.org/manual.html
 
 * https://github.com/cycfi/elements  
 
+* https://www.cnblogs.com/msxh/p/5869992.html  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
