@@ -1065,7 +1065,8 @@ https://ninja-build.org/manual.html
 
 * https://github.com/cycfi/elements  
 
-* https://www.cnblogs.com/msxh/p/5869992.html  
+* 【Cocos2d-x游戏开发】细数Cocos2d-x开发中那些常用的C++11知识  
+https://www.cnblogs.com/msxh/p/5869992.html  
 
 ## Other  
 [public_work.md](public_work.md)  
