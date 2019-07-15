@@ -1068,6 +1068,8 @@ https://ninja-build.org/manual.html
 * 【Cocos2d-x游戏开发】细数Cocos2d-x开发中那些常用的C++11知识  
 https://www.cnblogs.com/msxh/p/5869992.html  
 
+* https://github.com/gto76/python-cheatsheet  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
