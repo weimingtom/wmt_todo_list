@@ -1100,6 +1100,8 @@ https://www.cnblogs.com/msxh/p/5869992.html
 
 * http://www.freedroid.org  
 
+* https://github.com/Jiesean/MiBandReader  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
