@@ -1111,6 +1111,9 @@ https://www.cnblogs.com/msxh/p/5869992.html
 * 数据结构和算法必知必会的50个代码实现  
 https://github.com/wangzheng0822/algo  
 
+* PythonPlantsVsZombies  
+https://github.com/marblexu/PythonPlantsVsZombies  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
