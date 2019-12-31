@@ -1122,6 +1122,8 @@ https://github.com/marblexu/PythonPlantsVsZombies
 
 * https://github.com/kkroening/ffmpeg-python  
 
+* https://github.com/vitozyf/lucky-draw  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
