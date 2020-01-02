@@ -1132,6 +1132,10 @@ https://github.com/victorqribeiro/isocity
 * vue后台  
 https://github.com/lin-xin/vue-manage-system  
 
+* https://github.com/DavidBuchanan314/dlinject  
+
+* https://github.com/baidu/brpc-java  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
