@@ -1129,6 +1129,9 @@ https://github.com/marblexu/PythonPlantsVsZombies
 * 2.5D  
 https://github.com/victorqribeiro/isocity  
 
+* vue后台  
+https://github.com/lin-xin/vue-manage-system  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
