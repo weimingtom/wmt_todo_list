@@ -1126,6 +1126,9 @@ https://github.com/marblexu/PythonPlantsVsZombies
 
 * https://github.com/Anuken/Mindustry  
 
+* 2.5D  
+https://github.com/victorqribeiro/isocity  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
