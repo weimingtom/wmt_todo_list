@@ -1136,6 +1136,10 @@ https://github.com/lin-xin/vue-manage-system
 
 * https://github.com/baidu/brpc-java  
 
+* https://github.com/lyswhut/lx-music-desktop  
+
+* https://github.com/vcmi/vcmi  
+
 ## Other  
 [public_work.md](public_work.md)  
 [dead_work.md](dead_work.md)  
