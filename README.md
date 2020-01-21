@@ -3,6 +3,9 @@ Nothing seek, nothing find.
 
 
 ## Private work / Planning work  
+* 程序员如何优雅的挣零花钱  
+https://github.com/easychen/howto-make-more-money  
+
 * https://github.com/janroesner/sixty5o2  
 
 * https://github.com/vlang  
