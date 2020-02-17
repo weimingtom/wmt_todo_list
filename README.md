@@ -3,6 +3,8 @@ Nothing seek, nothing find.
 
 
 ## Private work / Planning work  
+* https://github.com/gabime/spdlog  
+
 * 程序员如何优雅的挣零花钱  
 https://github.com/easychen/howto-make-more-money  
 
