@@ -2,6 +2,10 @@
 Nothing seek, nothing find.
 
 # TODO  
+* osu linux  
+https://tieba.baidu.com/p/5361737640?pv=1  
+https://github.com/ppy/osu  
+
 * CoreCLR  
 https://github.com/dotnet/coreclr  
 
