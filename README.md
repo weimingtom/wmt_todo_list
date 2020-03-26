@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* vue spring boot  
+https://github.com/Heeexy/SpringBoot-Shiro-Vue  
+
 * web  
 https://github.com/wechat-miniprogram/kbone  
 
