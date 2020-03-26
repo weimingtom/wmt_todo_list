@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* scilab  
+https://help.scilab.org/doc/5.5.2/en_US/m2sci_not_equal.html  
+
 * re2, 正则表达式    
 https://github.com/google/re2  
 
