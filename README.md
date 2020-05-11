@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* lite, lua editor    
+https://github.com/rxi/lite    
+
 * scilab  
 https://help.scilab.org/doc/5.5.2/en_US/m2sci_not_equal.html  
 
