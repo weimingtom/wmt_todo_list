@@ -2,6 +2,8 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/makerdiary/nrf52840-m2-devkit/tree/master/examples/python/dino  
+
 * https://help.aliyun.com/document_detail/156176.html  
 
 * https://github.com/migueldeicaza/gui.cs  
