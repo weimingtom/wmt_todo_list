@@ -3,6 +3,7 @@ Nothing seek, nothing find.
 
 # TODO  
 * https://gitee.com/wddark/apple2emulator  
+search baiudpan, apple2.rar  
 
 * Unity compiling    
 https://github.com/Unity-Technologies/UnityCsReference  
