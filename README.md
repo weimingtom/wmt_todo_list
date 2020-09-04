@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/Rifu/hifumi  
+网页js音乐播放器，频谱动画  
+
 * https://gitee.com/wddark/apple2emulator  
 search baiudpan, apple2.rar  
 
