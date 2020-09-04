@@ -13,6 +13,9 @@ https://github.com/Unity-Technologies/UnityCsReference
 https://blog.csdn.net/linshuhe1/article/details/90295325  
 search baidupan, Unity_4.3.1_引擎源码  
 https://github.com/weimingtom/xlua_playground  
+https://blog.codingnow.com/2017/12/mobile_3d_engine.html#comments  
+Godot  
+畅游, 黑火引擎(Darkfire Engine)  
 
 * https://github.com/makerdiary/nrf52840-m2-devkit/tree/master/examples/python/dino  
 
