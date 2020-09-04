@@ -2,6 +2,12 @@
 Nothing seek, nothing find.
 
 # TODO  
+* 泰课在线  
+https://www.taikr.com  
+ETCore网络斗地主案例教学  
+https://www.taikr.com/course/1053  
+https://github.com/roubingcode/ETCore  
+
 * unity单机斗地主  
 search baidupan, unity简单斗地主游戏demo源码.zip  
 https://download.csdn.net/download/qq_41827636/10413038  
