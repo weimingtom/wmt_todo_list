@@ -2,6 +2,14 @@
 Nothing seek, nothing find.
 
 # TODO  
+* Android斗地主   
+june.game.doudizhu  
+itjob斗地主  
+grabDizhu  
+https://github.com/jxxsoft/PaoHuZi  
+search baidupan, com.june.game.doudizhu_v1.rar  
+search baidupan, doudizhu_apk  
+
 * 泰课在线  
 https://www.taikr.com  
 ETCore网络斗地主案例教学  
