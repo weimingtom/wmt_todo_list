@@ -2,6 +2,8 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/kfrlib/kfr  
+
 * build boost with vs2013  
 search baidupan, boost_1_55_0.7z, build3.txt  
 
