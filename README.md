@@ -2,6 +2,11 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/ibireme/yyjson  
+
+* https://github.com/hyb1996/Auto.js  
+android auto    
+
 * https://github.com/kfrlib/kfr  
 
 * build boost with vs2013  
