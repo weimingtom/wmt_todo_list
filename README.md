@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/squarefk/EnglishHelper/tree/master  
+qt英语背单词，词典  
+
 * https://github.com/kochampsy/fractal  
 
 * https://github.com/JetBrains/skija  
