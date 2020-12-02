@@ -2,6 +2,8 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/touqir14/Microdict  
+
 * https://github.com/peng-zhihui/HDMI-PI  
 
 * https://github.com/squarefk/EnglishHelper/tree/master  
