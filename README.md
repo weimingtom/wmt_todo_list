@@ -5,6 +5,7 @@ Nothing seek, nothing find.
 * https://github.com/touqir14/Microdict  
 
 * https://github.com/peng-zhihui/HDMI-PI  
+https://github.com/peng-zhihui/PocketLCD  
 
 * https://github.com/squarefk/EnglishHelper/tree/master  
 qt英语背单词，词典  
