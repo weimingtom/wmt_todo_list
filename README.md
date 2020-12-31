@@ -2,6 +2,8 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/petehunt/react-howto  
+
 * https://github.com/touqir14/Microdict  
 
 * https://github.com/peng-zhihui/HDMI-PI  
