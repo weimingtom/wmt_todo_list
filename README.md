@@ -2,6 +2,8 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://ziglang.org/  
+
 * https://github.com/excalidraw/excalidraw  
 whiteboard  
 
