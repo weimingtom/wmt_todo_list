@@ -2,6 +2,8 @@
 Nothing seek, nothing find.
 
 # TODO  
+* http://www.mathgv.com  
+
 * https://github.com/SebLague/Chess-AI  
 
 * https://ziglang.org/  
