@@ -3,7 +3,7 @@ Nothing seek, nothing find.
 
 # TODO  
 * https://github.com/digitalgust/miniJVM  
-* https://github.com/zlgopen/awtk-minijvm  
+https://github.com/zlgopen/awtk-minijvm  
 
 * http://www.mathgv.com  
 
