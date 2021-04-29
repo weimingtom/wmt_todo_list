@@ -2,6 +2,16 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/nextapps-de/winbox  
+
+* https://github.com/goldbergyoni/nodebestpractices  
+
+* https://github.com/plan9foundation/plan9  
+
+* https://github.com/SebLague/Slime-Simulation  
+
+* https://github.com/airbus-seclab/qemu_blog  
+
 * https://github.com/eva-engine/eva.js  
 
 * https://github.com/jdah/tetris-os  
