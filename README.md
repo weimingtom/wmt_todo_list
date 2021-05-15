@@ -2,6 +2,8 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/AllThingsSmitty/css-protips  
+
 * https://github.com/Renovamen/playground-macos  
 
 * https://github.com/supabase/supabase  
