@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/tachiyomiorg/tachiyomi  
+Free and open source manga reader for Android.  
+
 * https://github.com/VitorVilela7/wide-snes  
 Super Mario World (SNES) Widescreen Project  
 
