@@ -2,6 +2,8 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/vxunderground/WinAPI-Tricks  
+
 * https://github.com/CodingGay/BlackDex  
 
 * https://github.com/Tencent/secguide  
