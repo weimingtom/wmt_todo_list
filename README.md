@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/plctlab/v8-internals  
+深入V8引擎  
+
 * https://github.com/lyswhut/lx-music-mobile  
 一个基于 React native 开发的音乐软件。  
 
