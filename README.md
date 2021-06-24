@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/roseduan/rosedb  
+一个 Go 语言实现的快速、稳定、内嵌的 k-v 数据库。  
+
 * https://github.com/vxunderground/WinAPI-Tricks  
 
 * https://github.com/CodingGay/BlackDex  
