@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/OpenFeign/feign  
+Feign makes writing java http clients easier  
+
 * https://github.com/tachiyomiorg/tachiyomi  
 Free and open source manga reader for Android.  
 
