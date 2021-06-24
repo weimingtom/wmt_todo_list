@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* ORM, prisma  
+https://github.com/prisma/prisma  
+https://prisma.yoga/docs/prisma2/getting-started/start-from-scratch-with-empty-db/quickstart-sql  
 
 
 ## Other  
