@@ -2,6 +2,8 @@
 Nothing seek, nothing find.
 
 # TODO  
+* installanywhere解压  
+
 * https://github.com/KranX/Perimeter  
 
 * ORM, prisma  
