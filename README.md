@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/lyswhut/lx-music-mobile  
+一个基于 React native 开发的音乐软件。  
+
 * https://github.com/juce-framework/JUCE  
 
 * https://github.com/OpenFeign/feign  
