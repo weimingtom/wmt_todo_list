@@ -7,6 +7,7 @@ A complete C++ Text User Interface (TUI)
 https://github.com/idispatch/tvision  
 http://tvision.sourceforge.net  
 Turbo Vision (TVision for short) is a TUI (Text User Interface) that implements the well known CUA widgets.   
+仿照BORLAND公司的DOS界面  
 
 * https://github.com/ThakeeNathees/pocketlang  
 
