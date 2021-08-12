@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/ethereum/solidity  
+The Solidity Contract-Oriented Programming Language  
+
 * https://github.com/tiangolo/fastapi  
 FastAPI is a modern, fast (high-performance), web framework for Python  
 
