@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/OAI/OpenAPI-Specification  
+The OpenAPI Specification is a community-driven open specification within the OpenAPI Initiative, a Linux Foundation Collaborative Project.  
+
 * https://github.com/o3de/o3de  
 O3DE (Open 3D Engine)  
 
