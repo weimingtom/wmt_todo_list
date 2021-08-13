@@ -2,6 +2,9 @@
 Nothing seek, nothing find.
 
 # TODO  
+* easyicon  
+dead  
+
 * https://github.com/OAI/OpenAPI-Specification  
 The OpenAPI Specification is a community-driven open specification within the OpenAPI Initiative, a Linux Foundation Collaborative Project.  
 
