@@ -2,6 +2,8 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/lite-xl/lite-xl  
+
 * https://github.com/doocs/jvm  
 
 * easyicon  
