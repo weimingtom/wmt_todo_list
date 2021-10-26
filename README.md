@@ -2,6 +2,10 @@
 Nothing seek, nothing find.
 
 # TODO  
+* frida  
+https://www.sohu.com/a/246175537_557054  
+https://github.com/frida/frida  
+
 * https://github.com/hanmin0822/MisakaTranslator  
 
 * https://github.com/dotnet/maui  
