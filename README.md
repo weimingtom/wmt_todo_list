@@ -2,6 +2,10 @@
 Nothing seek, nothing find.
 
 # TODO  
+* https://github.com/hanmin0822/MisakaTranslator  
+
+* https://github.com/dotnet/maui  
+
 * https://github.com/lite-xl/lite-xl  
 
 * https://github.com/doocs/jvm  
